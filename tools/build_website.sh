@@ -2,7 +2,7 @@
 
 rm -fr './html'
 
-./zim.py --export ./website/pages/ -V \
+./KingMaster .py --export ./website/pages/ -V \
 	--template ./website/template.html \
 	--output ./html/ \
 	--root-url /
