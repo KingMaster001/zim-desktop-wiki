@@ -1,4 +1,4 @@
-Zim - A Desktop Wiki Editor
+Zim - A Desktop Wiki Editor - An amazing project
 ===========================
 
 ![zim banner](./website/files/images/invade_your_desktop.png)
